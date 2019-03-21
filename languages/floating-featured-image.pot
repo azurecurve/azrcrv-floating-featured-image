@@ -1,0 +1,218 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Floating Featured Image\n"
+"POT-Creation-Date: 2019-02-24 18:47+0000\n"
+"PO-Revision-Date: 2019-02-24 18:47+0000\n"
+"Last-Translator: \n"
+"Language-Team: https://translate.azurecurve.co.uk/\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: azrcrv-floating-featured-image.php\n"
+
+#: azrcrv-floating-featured-image.php:191
+msgid "Settings"
+msgstr ""
+
+#: azrcrv-floating-featured-image.php:207
+#: azrcrv-floating-featured-image.php:214
+msgid "Floating Featured Image Settings"
+msgstr ""
+
+#: azrcrv-floating-featured-image.php:208
+#: azrcrv-floating-featured-image.php:215
+msgid "Floating Featured Image"
+msgstr ""
+
+#: azrcrv-floating-featured-image.php:222
+#: azrcrv-floating-featured-image.php:223
+msgid "Images"
+msgstr ""
+
+#: azrcrv-floating-featured-image.php:233
+#: azrcrv-floating-featured-image.php:436
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: azrcrv-floating-featured-image.php:246
+msgid "Settings have been saved."
+msgstr ""
+
+#: azrcrv-floating-featured-image.php:260
+msgid ""
+"Set the default path for where you will be storing the images; default is to "
+"the plugin/images folder."
+msgstr ""
+
+#: azrcrv-floating-featured-image.php:262
+#, php-format
+msgid ""
+"Use the %s shortcode to place the image in a post or on a page. With the "
+"default stylesheet it will float to the right."
+msgstr ""
+
+#: azrcrv-floating-featured-image.php:264
+#, php-format
+msgid ""
+"Add image attribute to use an image other than the default; %1$s and %2$s "
+"attributes can also be set to override the defaults."
+msgstr ""
+
+#: azrcrv-floating-featured-image.php:266
+#, php-format
+msgid "Add %s attribute to use the tag instead of the category taxonomy."
+msgstr ""
+
+#: azrcrv-floating-featured-image.php:268
+#, php-format
+msgid ""
+"Add %s attribute to have the image hyperlinked (category will be used if "
+"both are supplied)."
+msgstr ""
+
+#: azrcrv-floating-featured-image.php:270
+msgid ""
+"If the default featured image is to be displayed simply add the shortcode to "
+"a page or post.)."
+msgstr ""
+
+#: azrcrv-floating-featured-image.php:272
+#, php-format
+msgid ""
+"When overriding the default add the parameters to the shortcode; e.g. %s"
+msgstr ""
+
+#: azrcrv-floating-featured-image.php:275
+msgid "Default Path"
+msgstr ""
+
+#: azrcrv-floating-featured-image.php:277
+msgid "Set default folder for images"
+msgstr ""
+
+#: azrcrv-floating-featured-image.php:280
+msgid "Default Image"
+msgstr ""
+
+#: azrcrv-floating-featured-image.php:282
+#, php-format
+msgid "Set default image used when no %s attribute set"
+msgstr ""
+
+#: azrcrv-floating-featured-image.php:285
+msgid "Default Title"
+msgstr ""
+
+#: azrcrv-floating-featured-image.php:287
+msgid "Set default title for image"
+msgstr ""
+
+#: azrcrv-floating-featured-image.php:290
+msgid "Default Alt"
+msgstr ""
+
+#: azrcrv-floating-featured-image.php:292
+#, php-format
+msgid "Set default %s text for image"
+msgstr ""
+
+#: azrcrv-floating-featured-image.php:295
+msgid "Default Taxonomy Is Tag"
+msgstr ""
+
+#: azrcrv-floating-featured-image.php:297
+msgid "Default Taxonomy Is Tag?"
+msgstr ""
+
+#: azrcrv-floating-featured-image.php:300
+msgid "Default Taxonomy"
+msgstr ""
+
+#: azrcrv-floating-featured-image.php:302
+msgid ""
+"Set default taxonomy to hyperlink image (default is to use category unless "
+"Is Tag is marked)"
+msgstr ""
+
+#: azrcrv-floating-featured-image.php:314
+msgid "You do not have permissions to perform this action"
+msgstr ""
+
+#: azrcrv-floating-featured-image.php:447
+msgid "Image has been deleted."
+msgstr ""
+
+#: azrcrv-floating-featured-image.php:452
+msgid "Image has been added."
+msgstr ""
+
+#: azrcrv-floating-featured-image.php:457
+msgid "Image has been updated."
+msgstr ""
+
+#: azrcrv-floating-featured-image.php:460
+msgid "Available Images"
+msgstr ""
+
+#: azrcrv-floating-featured-image.php:463
+#: azrcrv-floating-featured-image.php:538
+msgid "Key"
+msgstr ""
+
+#: azrcrv-floating-featured-image.php:464
+#: azrcrv-floating-featured-image.php:546
+msgid "Image"
+msgstr ""
+
+#: azrcrv-floating-featured-image.php:465
+msgid "Is Tag"
+msgstr ""
+
+#: azrcrv-floating-featured-image.php:466
+#: azrcrv-floating-featured-image.php:555
+msgid "Taxonomy"
+msgstr ""
+
+#: azrcrv-floating-featured-image.php:500
+msgid "Add Image"
+msgstr ""
+
+#: azrcrv-floating-featured-image.php:540
+msgid "Enter key of image (i.e. an easy to remember set of characters)"
+msgstr ""
+
+#: azrcrv-floating-featured-image.php:542
+msgid "Alt Text"
+msgstr ""
+
+#: azrcrv-floating-featured-image.php:544
+msgid "Enter alt text of image"
+msgstr ""
+
+#: azrcrv-floating-featured-image.php:548
+msgid "Enter name of image"
+msgstr ""
+
+#: azrcrv-floating-featured-image.php:550
+msgid "Taxonomy Is Tag"
+msgstr ""
+
+#: azrcrv-floating-featured-image.php:552
+msgid "Taxonomy Is Tag?"
+msgstr ""
+
+#: azrcrv-floating-featured-image.php:557
+msgid ""
+"Set taxonomy to hyperlink image (default is to use category unless Is Tag is "
+"marked)"
+msgstr ""
+
+#: azrcrv-floating-featured-image.php:579
+#: azrcrv-floating-featured-image.php:687
+msgid "You do not have permissions to perform this action."
+msgstr ""
