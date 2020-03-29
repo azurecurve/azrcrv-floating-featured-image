@@ -3,10 +3,10 @@
  * ------------------------------------------------------------------------------
  * Plugin Name: Floating Featured Image
  * Description: Shortcode allowing a floating featured image to be placed at the top of a post.
- * Version: 1.1.1
+ * Version: 1.1.2
  * Author: azurecurve
  * Author URI: https://development.azurecurve.co.uk/classicpress-plugins/
- * Plugin URI: https://development.azurecurve.co.uk/classicpress-plugins/floating-featured-image
+ * Plugin URI: https://development.azurecurve.co.uk/classicpress-plugins/floating-featured-image/
  * Text Domain: floating-featured-image
  * Domain Path: /languages
  * ------------------------------------------------------------------------------
@@ -204,7 +204,7 @@ function azrcrv_ffi_add_plugin_action_link($links, $file){
 	}
 
 	if ($file == $this_plugin){
-		$settings_link = '<a href="'.get_bloginfo('wpurl').'/wp-admin/admin.php?page=azrcrv-ffi">'.esc_html__('Settings' ,'floating-featured-image').'</a>';
+		$settings_link = '<a href="'.get_bloginfo('wpurl').'/wp-admin/admin.php?page=azrcrv-ffi"><img src="'.plugins_url('/pluginmenu/images/Favicon-16x16.png', __FILE__).'" style="padding-top: 2px; margin-right: -5px; height: 16px; width: 16px;" alt="azurecurve" />'.esc_html__('Settings' ,'floating-featured-image').'</a>';
 		array_unshift($links, $settings_link);
 	}
 
