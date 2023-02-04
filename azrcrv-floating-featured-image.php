@@ -3,7 +3,7 @@
  * ------------------------------------------------------------------------------
  * Plugin Name: Floating Featured Image
  * Description: Shortcode allowing a floating featured image to be placed at the top of a post.
- * Version: 1.2.0
+ * Version: 1.2.1
  * Author: azurecurve
  * Author URI: https://development.azurecurve.co.uk/classicpress-plugins/
  * Plugin URI: https://development.azurecurve.co.uk/classicpress-plugins/floating-featured-image/

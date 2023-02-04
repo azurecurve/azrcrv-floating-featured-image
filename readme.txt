@@ -1,14 +1,15 @@
 === Floating Featured Image ===
 
 Description:	Shortcode allowing a floating featured image to be placed at the top of a post.
-Version:		1.2.0
+Version:		1.2.1
 Tags:			posts, post, featured image
 Author:			azurecurve
 Author URI:		https://development.azurecurve.co.uk/
 Plugin URI:		https://development.azurecurve.co.uk/classicpress-plugins/floating-featured-image/
-Download link:	https://github.com/azurecurve/azrcrv-floating-featured-image/releases/download/v1.2.0/azrcrv-floating-featured-image.zip
+Download link:	https://github.com/azurecurve/azrcrv-floating-featured-image/releases/download/v1.2.1/azrcrv-floating-featured-image.zip
 Donate link:	https://development.azurecurve.co.uk/support-development/
 Requires PHP:	5.6
+Requires CP:	1.0
 Requires:		1.0.0
 Tested:			4.9.99
 Text Domain:	floating-featured-image
@@ -58,6 +59,9 @@ This plugin is developed for ClassicPress, but will likely work on WordPress.
 
 # Changelog
 
+### [Version 1.2.1](https://github.com/azurecurve/azrcrv-floating-featured-image/releases/tag/v1.2.1)
+ * Update readme file for compatibility with ClassicPress Directory.
+ 
 ### [Version 1.2.0](https://github.com/azurecurve/azrcrv-floating-featured-image/releases/tag/v1.2.0)
  * Fix plugin action link to use admin_url() function.
  * Rewrite option handling so defaults not stored in database on plugin initialisation.
