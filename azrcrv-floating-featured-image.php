@@ -1,14 +1,18 @@
 <?php
 /**
  * ------------------------------------------------------------------------------
- * Plugin Name: Floating Featured Image
- * Description: Shortcode allowing a floating featured image to be placed at the top of a post.
- * Version: 1.2.1
- * Author: azurecurve
- * Author URI: https://development.azurecurve.co.uk/classicpress-plugins/
- * Plugin URI: https://development.azurecurve.co.uk/classicpress-plugins/floating-featured-image/
- * Text Domain: floating-featured-image
- * Domain Path: /languages
+ * Plugin Name:		Floating Featured Image
+ * Description:		Shortcode allowing a floating featured image to be placed at the top of a post.
+ * Version:			1.2.2
+ * Requires CP:		1.0
+ * Author:			azurecurve
+ * Author URI:		https://development.azurecurve.co.uk/classicpress-plugins/
+ * Plugin URI:		https://development.azurecurve.co.uk/classicpress-plugins/floating-featured-image/
+ * Donate link:		https://development.azurecurve.co.uk/support-development/
+ * Text Domain:		floating-featured-image
+ * Domain Path:		/languages
+ * License:			GPLv2 or later
+ * License URI:		http://www.gnu.org/licenses/gpl-2.0.html
  * ------------------------------------------------------------------------------
  * This is free software released under the terms of the General Public License,
  * version 2, or later. It is distributed WITHOUT ANY WARRANTY; without even the
